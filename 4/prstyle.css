@@ -1,0 +1,39 @@
+*{
+	padding: : 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+div{
+	width: 70%;
+	margin: auto;
+	box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.3);
+	background-color: white;
+}
+body{
+	background-color: #efefef;
+}
+
+img{
+	max-width: 900px;
+	height: auto;
+	display: :block;
+	margin: auto;
+	padding-bottom: 40px;
+}
+
+p{
+	font-size: 22px;
+	font-family: Helvetica;
+	line-height: 1.65;
+	padding-bottom: 40px;
+	margin-left: 10px;
+	margin-right: 10px;
+	
+}
+
+h1{
+	font-size: 50px;
+	font-family: Helvetica;
+	text-align: center;
+	padding-bottom: 40px;
+}
